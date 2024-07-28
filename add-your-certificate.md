@@ -111,4 +111,6 @@
 | 95   | Naga Kanaka Lakshmi               | lakshmireddydwarampudi436@gmail.com         | [Naga Kanaka Lakshmi](https://www.linkedin.com/in/naga-kanaka-lakshmi-dwarampudi/)          | [Certificate Link](https://api.badgr.io/public/assertions/HFc0F3nATDWNVnyTILf9zQ?identity__email=lakshmireddydwarampudi436%40gmail.com) | It was an amazing experience!        |
 | 96 | Mukilan T | mukilan2808@gmail.com   | [mukilan2815](https://www.linkedin.com/in/mukilan2815)          | [Certificate Link]([[https://api.badgr.io/public/assertions/G5nH-OaXReSjQD7oO9qITw?identity__email=mukilan2808%40gmail.com]]) | Very helpful
 | 97 | Meetali Kapse | meetalikapse@gmail.com   | [Meetali Kapse](https://www.linkedin.com/in/meetalikapse/)          | [Certificate Link](https://api.badgr.io/public/assertions/tip7KEoVT6W3vTrr2gkFlA?identity__email=meetalikapse%40gmail.com) | Very helpful
-| 98 | Kundan Tamsoy | ntamsoy66@gmail.com | [Kundan Tamsoy](https://www.linkedin.com/in/kundan-tamsoy-646023230/) | [Certificate Link](https://api.badgr.io/public/assertions/cwZPWciVQQ2M-4e_UCyGwA?identity__email=ntamsoy66%40gmail.com) | Good opportunity for learning and earning too.
+| 98 | Gopikrishnan Tripathy | gopitrip.gt123@gmail.com   | [Gopikrishnan Tripathy](https://www.linkedin.com/in/gopikrishnan-tripathy-051048258/)          | [Certificate Link](https://api.badgr.io/public/assertions/LbgnB1DeS3q9W6Mwy2XC1g?identity__email=gopitrip.gt123%40gmail.com) | It was an interesting course!
+
+
